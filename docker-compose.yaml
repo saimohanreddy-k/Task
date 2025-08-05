@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  eureka:
+    image: assets:v1
+    container_name: eureka8761
+    ports:
+      - "8761:8761"
+    volumes:
+      - eureka_data:/app/data
+      - ./local-config:/app/config  
+
+volumes:
+  eureka_data:
