@@ -608,3 +608,102 @@ ll
 vi Dockerfile 
 vi abc.sh 
 vi Dockerfile 
+sudo apt update
+git init
+git remote add origin https://github.com/saimohanreddy-k/Task.git
+git add .
+git commit -m "files added"
+git push
+ll
+sudo apt update
+ll
+vi setup_apache.sh
+chmod +x setup_apache.sh 
+./setup_apache.sh 
+vi setup_apache.sh 
+chmod +x setup_apache.sh 
+./setup_apache.sh 
+sudo systemctl status apache2
+sudo reboot
+sudo apt update
+ll
+cd HRMS/EurekaServer/
+ll
+vi src/main/resources/
+cd src/main/resources/
+ll
+vi application.properties 
+vi application-dev.properties
+cd ../../..
+mvn package
+ll
+vi setup_eureka.sh
+chmod +x setup_eureka.sh 
+./setup_eureka.sh 
+vi setup_eureka.sh
+sudo find / -type f -name "*.jar"
+vi setup_eureka.sh
+chmod +x setup_eureka.sh 
+./setup_eureka.sh 
+ll
+vi setup_eureka.sh
+chmod +x setup_eureka.sh 
+./setup_eureka.sh 
+vi setup_eureka.sh
+chmod +x setup_eureka.sh 
+./setup_eureka.sh 
+sudo /usr/bin/java -jar /root/HRMS/EurekaServer/target/Eureka-Server-0.0.1-SNAPSHOT.jar
+ls -l /root/HRMS/EurekaServer/target/Eureka-Server-0.0.1-SNAPSHOT.jar
+sudo chmod +x /root/HRMS/EurekaServer/target/Eureka-Server-0.0.1-SNAPSHOT.jar
+ls -l /root/HRMS/EurekaServer/target/Eureka-Server-0.0.1-SNAPSHOT.jar
+ll
+vi /etc/systemd/system/eureka.service 
+sudo systemctl daemon-reload
+sudo systemctl restart eureka
+sudo tail -n 50 /var/log/eureka.log
+./mvnw clean package
+mvn clean package
+mvn package
+ll
+rm setup_eureka.sh 
+ll
+mvn pacakge
+mvn package
+vi jar.sh 
+rm jar.sh 
+vi jar.sh 
+chmod =x jar.sh 
+./jar.sh 
+mvn package
+clear
+ll
+vi jar.sh 
+cd ../..
+sudo apt update
+sudo apt install -y openjdk-17-jdk git maven
+cd HRMS/EurekaServer/
+./mvnw clean package
+chmod +x ./mvnw
+./mvnw clean package
+mvn clean package
+clear
+ll
+sudo reboot
+sudo apt update
+cd HRMS/EurekaServer/
+ll
+sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/java-17-openjdk-amd64/bin/java 1
+sudo update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/java-17-openjdk-amd64/bin/javac 1
+sudo update-alternatives --config java
+sudo update-alternatives --config javac
+javac -version
+vi start-eureka.sh
+chmod +x start-eureka.sh 
+sudo vi /etc/systemd/system/eureka.service
+./start-eureka.sh 
+sudo reboot
+cd HRMS/EurekaServer/
+ll
+sudo systemctl daemon-reload
+sudo systemctl restart eureka
+sudo reboot

@@ -15,13 +15,13 @@ $
 
 # Command Line History (newest to oldest):
 :x
-|2,0,1753009789,,"x"
+|2,0,1754382858,,"x"
 :X
 |2,0,1751969415,,"X"
 
 # Search String History (newest to oldest):
 ? @$
-|2,1,1752498655,,"@$"
+|2,1,1754373613,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -32,230 +32,303 @@ $
 # Registers:
 
 # File marks:
-'0  15  0  ~/linux-abc/Dockerfile
-|4,48,15,0,1753009789,"~/linux-abc/Dockerfile"
-'1  2  23  ~/linux-abc/abc.sh
-|4,49,2,23,1753009743,"~/linux-abc/abc.sh"
-'2  2  23  ~/linux-abc/abc.sh
-|4,50,2,23,1753009349,"~/linux-abc/abc.sh"
-'3  15  0  ~/linux-abc/Dockerfile
-|4,51,15,0,1753009326,"~/linux-abc/Dockerfile"
-'4  15  0  ~/linux-abc/Dockerfile
-|4,52,15,0,1753009010,"~/linux-abc/Dockerfile"
-'5  15  0  ~/linux-abc/Dockerfile
-|4,53,15,0,1753009010,"~/linux-abc/Dockerfile"
-'6  2  23  ~/linux-abc/abc.sh
-|4,54,2,23,1753008917,"~/linux-abc/abc.sh"
-'7  2  23  ~/linux-abc/abc.sh
-|4,55,2,23,1753008917,"~/linux-abc/abc.sh"
-'8  2  23  ~/linux-abc/abc.sh
-|4,56,2,23,1753008906,"~/linux-abc/abc.sh"
-'9  2  23  ~/linux-abc/abc.sh
-|4,57,2,23,1753008906,"~/linux-abc/abc.sh"
+'0  1  0  /etc/systemd/system/eureka.service
+|4,48,1,0,1754382858,"/etc/systemd/system/eureka.service"
+'1  44  0  ~/HRMS/EurekaServer/start-eureka.sh
+|4,49,44,0,1754382744,"~/HRMS/EurekaServer/start-eureka.sh"
+'2  21  0  ~/HRMS/EurekaServer/jar.sh
+|4,50,21,0,1754376955,"~/HRMS/EurekaServer/jar.sh"
+'3  21  0  ~/HRMS/EurekaServer/jar.sh
+|4,51,21,0,1754376757,"~/HRMS/EurekaServer/jar.sh"
+'4  42  0  ~/HRMS/EurekaServer/jar.sh
+|4,52,42,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+'5  22  0  ~/HRMS/EurekaServer/jar.sh
+|4,53,22,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+'6  42  0  ~/HRMS/EurekaServer/jar.sh
+|4,54,42,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+'7  22  0  ~/HRMS/EurekaServer/jar.sh
+|4,55,22,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+'8  10  0  /etc/systemd/system/eureka.service
+|4,56,10,0,1754376180,"/etc/systemd/system/eureka.service"
+'9  10  0  /etc/systemd/system/eureka.service
+|4,57,10,0,1754376180,"/etc/systemd/system/eureka.service"
 
 # Jumplist (newest first):
--'  15  0  ~/linux-abc/Dockerfile
-|4,39,15,0,1753009789,"~/linux-abc/Dockerfile"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753009743,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753009743,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753009349,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753009349,"~/linux-abc/abc.sh"
--'  15  0  ~/linux-abc/Dockerfile
-|4,39,15,0,1753009326,"~/linux-abc/Dockerfile"
--'  15  0  ~/linux-abc/Dockerfile
-|4,39,15,0,1753009326,"~/linux-abc/Dockerfile"
--'  15  0  ~/linux-abc/Dockerfile
-|4,39,15,0,1753009326,"~/linux-abc/Dockerfile"
--'  15  0  ~/linux-abc/Dockerfile
-|4,39,15,0,1753009326,"~/linux-abc/Dockerfile"
--'  15  0  ~/linux-abc/Dockerfile
-|4,39,15,0,1753009010,"~/linux-abc/Dockerfile"
--'  15  0  ~/linux-abc/Dockerfile
-|4,39,15,0,1753009010,"~/linux-abc/Dockerfile"
--'  15  0  ~/linux-abc/Dockerfile
-|4,39,15,0,1753009010,"~/linux-abc/Dockerfile"
--'  15  0  ~/linux-abc/Dockerfile
-|4,39,15,0,1753009010,"~/linux-abc/Dockerfile"
--'  1  0  ~/linux-abc/Dockerfile
-|4,39,1,0,1753008984,"~/linux-abc/Dockerfile"
--'  1  0  ~/linux-abc/Dockerfile
-|4,39,1,0,1753008984,"~/linux-abc/Dockerfile"
--'  1  0  ~/linux-abc/Dockerfile
-|4,39,1,0,1753008984,"~/linux-abc/Dockerfile"
--'  1  0  ~/linux-abc/Dockerfile
-|4,39,1,0,1753008984,"~/linux-abc/Dockerfile"
--'  1  0  ~/linux-abc/Dockerfile
-|4,39,1,0,1753008984,"~/linux-abc/Dockerfile"
--'  1  0  ~/linux-abc/Dockerfile
-|4,39,1,0,1753008984,"~/linux-abc/Dockerfile"
--'  1  0  ~/linux-abc/Dockerfile
-|4,39,1,0,1753008984,"~/linux-abc/Dockerfile"
--'  1  0  ~/linux-abc/Dockerfile
-|4,39,1,0,1753008984,"~/linux-abc/Dockerfile"
--'  1  0  ~/linux-abc/Dockerfile
-|4,39,1,0,1753008984,"~/linux-abc/Dockerfile"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008917,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008917,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008917,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008917,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008917,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008917,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008917,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008917,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008906,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008906,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008906,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008906,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008906,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008906,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008906,"~/linux-abc/abc.sh"
--'  2  23  ~/linux-abc/abc.sh
-|4,39,2,23,1753008906,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  1  0  ~/linux-abc/abc.sh
-|4,39,1,0,1753008826,"~/linux-abc/abc.sh"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
--'  16  0  ~/mysql-docker/docker-compose.yml
-|4,39,16,0,1752736271,"~/mysql-docker/docker-compose.yml"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754382858,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754382813,"/etc/systemd/system/eureka.service"
+-'  44  0  ~/HRMS/EurekaServer/start-eureka.sh
+|4,39,44,0,1754382744,"~/HRMS/EurekaServer/start-eureka.sh"
+-'  44  0  ~/HRMS/EurekaServer/start-eureka.sh
+|4,39,44,0,1754382744,"~/HRMS/EurekaServer/start-eureka.sh"
+-'  1  0  ~/HRMS/EurekaServer/start-eureka.sh
+|4,39,1,0,1754382738,"~/HRMS/EurekaServer/start-eureka.sh"
+-'  1  0  ~/HRMS/EurekaServer/start-eureka.sh
+|4,39,1,0,1754382738,"~/HRMS/EurekaServer/start-eureka.sh"
+-'  21  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,21,0,1754376955,"~/HRMS/EurekaServer/jar.sh"
+-'  21  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,21,0,1754376955,"~/HRMS/EurekaServer/jar.sh"
+-'  21  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,21,0,1754376955,"~/HRMS/EurekaServer/jar.sh"
+-'  21  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,21,0,1754376955,"~/HRMS/EurekaServer/jar.sh"
+-'  21  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,21,0,1754376757,"~/HRMS/EurekaServer/jar.sh"
+-'  21  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,21,0,1754376757,"~/HRMS/EurekaServer/jar.sh"
+-'  21  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,21,0,1754376757,"~/HRMS/EurekaServer/jar.sh"
+-'  21  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,21,0,1754376757,"~/HRMS/EurekaServer/jar.sh"
+-'  1  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,1,0,1754376751,"~/HRMS/EurekaServer/jar.sh"
+-'  1  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,1,0,1754376751,"~/HRMS/EurekaServer/jar.sh"
+-'  1  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,1,0,1754376751,"~/HRMS/EurekaServer/jar.sh"
+-'  1  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,1,0,1754376751,"~/HRMS/EurekaServer/jar.sh"
+-'  1  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,1,0,1754376751,"~/HRMS/EurekaServer/jar.sh"
+-'  1  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,1,0,1754376751,"~/HRMS/EurekaServer/jar.sh"
+-'  1  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,1,0,1754376751,"~/HRMS/EurekaServer/jar.sh"
+-'  1  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,1,0,1754376751,"~/HRMS/EurekaServer/jar.sh"
+-'  42  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,42,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  22  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,22,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  42  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,42,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  22  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,22,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  42  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,42,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  22  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,22,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  42  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,42,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  22  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,22,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  42  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,42,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  22  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,22,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  42  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,42,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  22  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,22,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  42  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,42,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  22  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,22,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  42  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,42,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  22  0  ~/HRMS/EurekaServer/jar.sh
+|4,39,22,0,1754376735,"~/HRMS/EurekaServer/jar.sh"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  10  0  /etc/systemd/system/eureka.service
+|4,39,10,0,1754376180,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  1  0  /etc/systemd/system/eureka.service
+|4,39,1,0,1754376084,"/etc/systemd/system/eureka.service"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
+-'  47  0  ~/HRMS/EurekaServer/setup_eureka.sh
+|4,39,47,0,1754375783,"~/HRMS/EurekaServer/setup_eureka.sh"
 
 # History of marks within files (newest to oldest):
+
+> /etc/systemd/system/eureka.service
+	*	1754382822	0
+	"	1	0
+	^	10	0
+	.	9	40
+	+	9	40
+
+> ~/HRMS/EurekaServer/start-eureka.sh
+	*	1754382740	0
+	"	44	0
+	^	44	0
+	.	43	39
+	+	43	39
+
+> ~/HRMS/EurekaServer/jar.sh
+	*	1754376937	0
+	"	21	0
+	^	21	0
+	.	20	42
+	+	1	1228
+	+	1	96
+	+	1	36
+	+	1	131
+	+	1	184
+	+	1	1152
+	+	1	272
+	+	1	247
+	+	138	27
+	+	138	3
+	+	138	4
+	+	75	45
+	+	63	57
+	+	50	5
+	+	61	22
+	+	50	5
+	+	42	0
+	+	20	42
+
+> ~/HRMS/EurekaServer/setup_eureka.sh
+	*	1754375780	0
+	"	47	0
+	^	47	0
+	.	47	0
+	+	1	1001
+	+	1	1000
+	+	1	287
+	+	1	663
+	+	1	792
+	+	47	0
+
+> ~/HRMS/EurekaServer/src/main/resources/application-dev.properties
+	*	1754373707	0
+	"	5	57
+	^	5	58
+	.	5	57
+	+	5	57
+
+> ~/HRMS/EurekaServer/src/main/resources/application.properties
+	*	1754373640	0
+	"	3	25
+	^	3	26
+	.	3	25
+	+	4	0
+	+	3	25
+
+> ~/setup_apache.sh
+	*	1754372543	0
+	"	29	29
+	^	29	30
+	.	29	29
+	+	15	538
+	+	29	29
 
 > ~/linux-abc/Dockerfile
 	*	1753009746	0
@@ -346,36 +419,6 @@ $
 	*	1752582895	0
 	"	1	0
 
-> ~/HRMS/EurekaServer/jar.sh
-	*	1752582868	0
-	"	22	0
-	^	22	1
-	.	22	0
-	+	1	1228
-	+	1	96
-	+	1	36
-	+	1	131
-	+	1	184
-	+	1	1152
-	+	1	272
-	+	1	247
-	+	118	27
-	+	118	3
-	+	118	4
-	+	55	45
-	+	43	57
-	+	30	5
-	+	41	22
-	+	30	5
-	+	22	0
-
-> ~/HRMS/EurekaServer/src/main/resources/application-dev.properties
-	*	1752559306	0
-	"	5	55
-	^	5	56
-	.	5	55
-	+	5	55
-
 > ~/HRMS/EurekaServer/jar_file
 	*	1752499626	0
 	"	20	24
@@ -383,14 +426,6 @@ $
 	.	20	24
 	+	9	7
 	+	20	24
-
-> ~/HRMS/EurekaServer/src/main/resources/application.properties
-	*	1752499102	0
-	"	3	25
-	^	3	26
-	.	3	25
-	+	4	0
-	+	3	25
 
 > ~/HRMS/EurekaServer/src/main/resources/application-qa.properties
 	*	1752497618	0
